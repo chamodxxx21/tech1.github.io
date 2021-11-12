@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(BACKGROUNG.jpg);
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+h1{
+  position: relative;
+  text-align: center;
+  
+  color: rgb(0, 0, 0);
+  top: 150px;
+  font-size: 41PX;
+  font-weight: 3000;
+  border-bottom: black;
+}
+
+h2{
+    position: relative;
+    text-align: center;
+    
+    color: rgb(223, 56, 56);
+    top: 150px;
+    font-size: 29PX;
+    font-weight: 3000;
+    border-bottom: black;
+
+}
+
+h3{
+    position: relative;
+    text-align: center;
+    
+    color: rgb(223, 56, 56);
+    top: 150px;
+    font-size: 29PX;
+    font-weight: 3000;
+    border-bottom: black;
+
+}
+
+h4{
+    position: relative;
+    text-align: center;
+    
+    color: rgb(223, 56, 56);
+    top: 150px;
+    font-size: 29PX;
+    font-weight: 3000;
+    border-bottom: black;
+
+}
+h5{
+    position: relative;
+    text-align: center;
+    
+    color: rgb(223, 56, 56);
+    top: 150px;
+    font-size: 29PX;
+    font-weight: 3000;
+    border-bottom: black;
+
+}
+
+h6{
+    position: relative;
+    text-align: center;
+    
+    color: rgb(223, 56, 56);
+    top: 150px;
+    font-size: 29PX;
+    font-weight: 3000;
+    border-bottom: black;
+
+}
+
+link{
+    font-size: 25px;
+    color:rgb(0, 0, 0);
+     margin: 5px;
+     text-decoration: none;
+     border: 1px solid coral;
+}
+
+#contact{
+	display: flex;
+	justify-content: center;
+}
+
+.social-logo{
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+    top: 150px;
+    margin-top: 180px;
+}
